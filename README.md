@@ -11,7 +11,7 @@
 - Show chats
 - Delete Account
 - Send messages
-- receive messages
+- Receive messages
 - Add Contacts
 - Delete Contacts
 
