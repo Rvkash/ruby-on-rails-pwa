@@ -3,6 +3,7 @@
 - Ruby on Rails
 - WebSocket
 - ngrok
+- Devise
 - sqlite3
 
 # APP
