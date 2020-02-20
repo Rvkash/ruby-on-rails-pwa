@@ -1,7 +1,7 @@
 # PWA Ruby on Rails 
 
 - Ruby on Rails
-- WebSocket
+- Web socket
 - Ngrok (localhost tunnel)
 - Devise
 - sqlite3
