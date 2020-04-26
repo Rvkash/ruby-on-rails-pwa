@@ -2,7 +2,7 @@
 
 - Ruby on Rails
 - Web socket
-- Ngrok (localhost tunnel)
+- Ngrok 
 - Devise
 - sqlite3
 
