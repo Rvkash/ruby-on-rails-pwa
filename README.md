@@ -1,3 +1,4 @@
+![Alt text](https://miro.medium.com/max/5760/1*5cukG51YzB3wniCfQ2b7kg.png)
 # PWA Ruby on Rails 
 
 - Ruby on Rails
